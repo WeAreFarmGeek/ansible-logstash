@@ -1,0 +1,4 @@
+---
+user: ubuntu
+es_address: http://log.example.com/es/
+logstash_domain: log.example.com:5043
